@@ -1,0 +1,22 @@
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\bin\Debug\BLL.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\bin\Debug\BLL.pdb
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\bin\Debug\Data.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\bin\Debug\Models.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\bin\Debug\Data.pdb
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\bin\Debug\Models.pdb
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\obj\Debug\BLL.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\BLL\obj\Debug\BLL.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\bin\Debug\BLL.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\bin\Debug\BLL.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\bin\Debug\Data.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\bin\Debug\Models.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\bin\Debug\Data.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\bin\Debug\Models.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\obj\Debug\BLL.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\BLL\obj\Debug\BLL.pdb

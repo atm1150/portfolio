@@ -1,0 +1,41 @@
+﻿@model List<MVC_SIS_Models.State>
+@{
+    ViewBag.Title = "States";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h3>States</h3>
+        @Html.ActionLink("Add State", "AddState", "Admin", null, new { @class = "btn btn-primary"})
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+        <table class="table table-striped" style="width: auto;">
+            <!--header-->
+            <thead>
+                <tr>
+                    <th>State</th>
+                    <th>State Abbreviation</th>
+
+                </tr>
+            </thead>
+
+            <!--table body-->
+            <tbody>
+                @foreach (var state in Model)
+            {
+                <tr>
+                    <td>@state.StateName</td>
+                    <td>@state.StateAbbreviation</td>
+                    <td>@Html.ActionLink("Edit", "EditState", "Admin", new { stateAbbreviation = state.StateAbbreviation }, null) |
+                        @Html.ActionLink("Delete", "DeleteState", "Admin", new { stateAbbreviation = state.StateAbbreviation }, null)
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>
+

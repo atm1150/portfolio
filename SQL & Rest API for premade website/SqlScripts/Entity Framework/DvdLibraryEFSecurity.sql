@@ -1,0 +1,16 @@
+USE DvdLibrary
+GO
+
+CREATE LOGIN DvdLibraryApp WITH PASSWORD='testing123'
+GO
+
+CREATE USER DvdLibraryApp FOR LOGIN DvdLibraryApp
+GO
+
+GRANT CREATE TABLE ON SCHEMA::dbo TO DvdLibraryApp
+GRANT ALTER ON SCHEMA::dbo TO DvdLibraryApp
+GRANT SELECT ON SCHEMA::dbo TO DvdLibraryApp
+GRANT INSERT ON SCHEMA::dbo TO DvdLibraryApp
+GRANT UPDATE ON SCHEMA::dbo TO DvdLibraryApp
+GRANT DELETE ON SCHEMA::dbo TO DvdLibraryApp
+GO

@@ -1,0 +1,12 @@
+C:\Repos\online-net-atm1150\OOP_Assessment\Models\bin\Debug\Models.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\Models\bin\Debug\Models.pdb
+C:\Repos\online-net-atm1150\OOP_Assessment\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Repos\online-net-atm1150\OOP_Assessment\Models\obj\Debug\Models.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\Models\obj\Debug\Models.pdb
+C:\Repos\online-net-atm1150\OOP_Assessment\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Models\bin\Debug\Models.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Models\bin\Debug\Models.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Models\obj\Debug\Models.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Models\obj\Debug\Models.pdb

@@ -1,0 +1,76 @@
+﻿@model CarDealership.UI.Models.ContactAddVM
+
+@{
+    ViewBag.Title = "Contact";
+}
+
+
+<div class="row">
+    <div class="col-xs-12 col-md-6 col-lg-6">
+        <h2>Contact Us</h2>
+        @using (Html.BeginForm("Contact", "Home", FormMethod.Post, new { id = "frmContact" }))
+        {
+            @Html.ValidationSummary(true)
+            <div class="col-xs-12 col-sm-7">
+                <div class="form-group">
+                    <label>Full Name:</label>
+                    @Html.TextBoxFor(m => m.Contact.FullName, new { @class = "form-control" })
+                    <span class="text-danger">@Html.ValidationMessageFor(m => m.Contact.FullName)</span>
+                </div>
+                <div class="form-group">
+                    <label>Email:</label>
+                    @Html.TextBoxFor(m => m.Contact.Email, new { @class = "form-control", id = "email" })
+                    <span class="text-danger">@Html.ValidationMessageFor(m => m.Contact.Email)</span>
+                </div>
+                <div class="form-group">
+                    <label>Phone:</label>
+                    @Html.TextBoxFor(m => m.Contact.Phone, new { @class = "form-control", id = "phone" })
+                    <span class="text-danger">@Html.ValidationMessageFor(m => m.Contact.Phone)</span>
+                </div>
+                <div class="form-group">
+                    <label>Message:</label>
+                    @Html.TextAreaFor(m => m.Contact.Message, 5, 105, new { @id = "contactMessage", @class = "form-control" })
+                    <span class="text-danger">@Html.ValidationMessageFor(m => m.Contact.Message)</span>
+                </div>
+                <button class="btn btn-primary">Submit</button>
+            </div>
+        }
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-6">
+        <iframe src="https://goo.gl/maps/v8csBTnXnrkrpBi47" width="450" height="337" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <p>42 Wallaby Way</p>
+        <p>Sydney, Austrailia</p>
+        <hr />
+        <p>Sales: 555-555-5555</p>
+        <p>Service: 666-666-6666</p>
+    </div>
+</div>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+
+            $('#frmContact').validate({
+                rules: {
+                    'FullName': {
+                        required: true,
+                    },
+                    'Message': {
+                        required: true,
+                    },
+                    'Email': {
+                        required: function (element) {
+                            return $("#phone").is(':blank');
+                        }
+                    },
+                    'Phone': {
+                        required: function (element) {
+                            return $("#email").is(':blank');
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+}

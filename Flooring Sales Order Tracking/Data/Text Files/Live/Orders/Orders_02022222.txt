@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,yahoo,Pennsylvania,6.75,Laminate,345.00,1.75,2.10,603.75,724.50,89.66,1417.91
+2,joe,Ohio,6.25,Tile,500.00,3.50,4.15,1750.00,2075.00,239.06,4064.06
+3,google,Indiana,6.00,Tile,598.00,3.50,4.15,2093.00,2481.70,274.48,4849.18

@@ -1,0 +1,30 @@
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\bin\Debug\Controller.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\bin\Debug\Controller.pdb
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\bin\Debug\BLL.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\bin\Debug\Models.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\bin\Debug\View.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\bin\Debug\Data.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\bin\Debug\BLL.pdb
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\bin\Debug\Models.pdb
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\bin\Debug\View.pdb
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\bin\Debug\Data.pdb
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\obj\Debug\Controller.dll
+C:\Repos\online-net-atm1150\OOP_Assessment\Controller\obj\Debug\Controller.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\bin\Debug\Controller.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\bin\Debug\Controller.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\bin\Debug\BLL.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\bin\Debug\Models.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\bin\Debug\View.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\bin\Debug\Data.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\bin\Debug\BLL.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\bin\Debug\Models.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\bin\Debug\View.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\bin\Debug\Data.pdb
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\obj\Debug\Controller.dll
+C:\Repos\online-net-atm1150\Assessments\C# OOP Mastery Project\Controller\obj\Debug\Controller.pdb

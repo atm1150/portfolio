@@ -1,0 +1,12 @@
+C:\Users\philwilliams\source\repos\MVC-SIS\MVC-SIS_Models\bin\Debug\MVC-SIS_Models.dll
+C:\Users\philwilliams\source\repos\MVC-SIS\MVC-SIS_Models\bin\Debug\MVC-SIS_Models.pdb
+C:\Users\philwilliams\source\repos\MVC-SIS\MVC-SIS_Models\obj\Debug\MVC-SIS_Models.csproj.CoreCompileInputs.cache
+C:\Users\philwilliams\source\repos\MVC-SIS\MVC-SIS_Models\obj\Debug\MVC-SIS_Models.dll
+C:\Users\philwilliams\source\repos\MVC-SIS\MVC-SIS_Models\obj\Debug\MVC-SIS_Models.pdb
+C:\Users\philwilliams\source\repos\MVC-SIS\MVC-SIS_Models\obj\Debug\MVC-SIS_Models.csprojAssemblyReference.cache
+C:\Repos\online-net-atm1150\C# Code\MVC-SIS\MVC-SIS\MVC-SIS_Models\bin\Debug\MVC-SIS_Models.dll
+C:\Repos\online-net-atm1150\C# Code\MVC-SIS\MVC-SIS\MVC-SIS_Models\bin\Debug\MVC-SIS_Models.pdb
+C:\Repos\online-net-atm1150\C# Code\MVC-SIS\MVC-SIS\MVC-SIS_Models\obj\Debug\MVC-SIS_Models.csproj.AssemblyReference.cache
+C:\Repos\online-net-atm1150\C# Code\MVC-SIS\MVC-SIS\MVC-SIS_Models\obj\Debug\MVC-SIS_Models.csproj.CoreCompileInputs.cache
+C:\Repos\online-net-atm1150\C# Code\MVC-SIS\MVC-SIS\MVC-SIS_Models\obj\Debug\MVC-SIS_Models.dll
+C:\Repos\online-net-atm1150\C# Code\MVC-SIS\MVC-SIS\MVC-SIS_Models\obj\Debug\MVC-SIS_Models.pdb

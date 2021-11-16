@@ -1,0 +1,23 @@
+﻿@model MVC_SIS_UI.Models.StudentDeleteVM
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h3>Delete Course</h3>
+        @Html.ActionLink("Return to List", "List", "Admin")
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        @using (Html.BeginForm())
+        {
+            @Html.HiddenFor(m => m.currentStudent.StudentId)
+            <p>Are you sure that you wish to delete the Student @Html.DisplayFor(m => m.currentStudent.FirstName)?</p>
+            <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+            @Html.ActionLink("Cancel", "List", "Student", null, new { @class = "btn btn-sm btn-info" })
+        }
+    </div>
+</div>
+

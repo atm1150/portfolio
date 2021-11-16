@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,lakds;fj,Indiana,6.00,Tile,346.00,3.50,4.15,1211.00,1435.90,158.81,2805.71
+2,sample,Ohio,6.25,Tile,500.00,3.50,4.15,1750.00,2075.00,239.06,4064.06
+3,Big Important Company,Ohio,6.25,Tile,200.00,3.50,4.15,700.00,830.00,95.63,1625.63
